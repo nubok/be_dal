@@ -6,7 +6,7 @@ Thanks for checking out our repository. We love this project, hope you do too.
 
 # How to run this code #
 
-##You need to install *Python Programming Language*, *PIL*, *Git* and/or *SQLite3*, *MySQLdb*.##
+##You need to install *Python Programming Language*, *PIL*, *Git* and (*SQLite3* or *MySQLdb*).##
 
 		# installs python and PIL
 		sudo apt-get install python python-imaging 
@@ -29,7 +29,7 @@ If it does not work, download the latest version of django from [here](http://ww
 		sudo apt-get install git-core
 		
 		# configure it !
-		git config --global user.name "your_username"
+		git config --global user.name "Firstname Lastname"
 		git config --global user.email your@email.com
 		
 		# clone the repo
